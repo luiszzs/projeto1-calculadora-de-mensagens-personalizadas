@@ -1,7 +1,7 @@
 let nome = "Luis Guilherme"
 let idade = 15
 let city = "General Sampaio"
-let Profissao = "Estudante"
+let profissao = "Estudante"
 let anoAtual = 2025
 let salario = 200
 let bonus = 100
