@@ -16,7 +16,7 @@ alert(`
      Idade: ${idade}
      Ano de nascimento: ${anoNascimento}
      Cidade: ${city}
-     Profissão: ${Profissao}    
+     Profissão: ${profissao}    
     
      Sálario base: U$${salario}
      Bônus: U$${bonus}
